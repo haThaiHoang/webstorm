@@ -355,4 +355,12 @@
       <option name="JS_CLASS" value="true" />
     </context>
   </template>
+  <template name="_i" value="import $1$ from '$END$'" toReformat="true" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="_il" value="import lodash from 'lodash'" toReformat="false" toShortenFQNames="true" />
 </templateSet>
