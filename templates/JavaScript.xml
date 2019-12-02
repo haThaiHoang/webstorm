@@ -1,0 +1,9 @@
+<templateSet group="JavaScript">
+  <template name="_lg" value="console.log('$1$', $END$)" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

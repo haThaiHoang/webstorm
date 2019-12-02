@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="&lt;abbreviation&gt;" value="const { $1$ } = this.state" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
