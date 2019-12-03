@@ -356,11 +356,32 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="_il" value="import lodash from 'lodash'" description="" toReformat="false" toShortenFQNames="true" />
   <template name="_sst" value="this.setState({&#10;  $END$&#10;})" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="ES6_STATEMENT" value="true" />
       <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="_ip" value="import PropTypes from 'prop-types'" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="_props" value="const { $1$ } = this.props" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="_il" value="import lodash from 'lodash'" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="_ir" value="import React from 'react'" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
 </templateSet>
