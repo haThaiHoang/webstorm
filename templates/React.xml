@@ -24,12 +24,6 @@
       <option name="JS_CLASS" value="true" />
     </context>
   </template>
-  <template name="_props" value="this.props.$END$" description="Access component's props" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JS_EXPRESSION" value="true" />
-      <option name="JS_STATEMENT" value="true" />
-    </context>
-  </template>
   <template name="_ren" value="render() {&#10; return (&#10;  &lt;div&gt;&#10;   $END$&#10;  &lt;/div&gt;&#10; );&#10;}" description="When called, it should examine this.props and this.state and return a single child element." toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JS_CLASS" value="true" />
