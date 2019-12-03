@@ -40,7 +40,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="_state" value="this.state.$END$" description="Access component's state" toReformat="true" toShortenFQNames="true">
+  <template name="_state" value="this.state" description="Access component's state" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JS_EXPRESSION" value="true" />
       <option name="JS_STATEMENT" value="true" />
@@ -363,4 +363,10 @@
     </context>
   </template>
   <template name="_il" value="import lodash from 'lodash'" description="" toReformat="false" toShortenFQNames="true" />
+  <template name="_sst" value="this.setState({&#10;  $END$&#10;})" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
