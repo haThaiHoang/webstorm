@@ -391,4 +391,10 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="_ed" value="/* eslint-disable */" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
