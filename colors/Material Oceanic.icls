@@ -4,17 +4,17 @@
     <property name="created">2019-12-02T08:56:35</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-01-10T09:18:16</property>
+    <property name="modified">2020-01-31T13:33:02</property>
     <property name="originalScheme">_@user_Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
