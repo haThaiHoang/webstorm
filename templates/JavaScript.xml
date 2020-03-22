@@ -12,7 +12,7 @@
       <option name="JS_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="_lgt" value="console.tron.logImportant($END$)" toReformat="false" toShortenFQNames="true">
+  <template name="_lgt" value="console.tron.log($END$)" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ECMAScript6" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
