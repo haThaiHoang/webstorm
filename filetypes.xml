@@ -4,6 +4,7 @@
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping ext="gradle" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
