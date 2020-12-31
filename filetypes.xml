@@ -8,6 +8,7 @@
       <mapping pattern="tsconfig.spec.json" type="tsconfig" />
       <mapping pattern="tsconfig.app.json" type="tsconfig" />
       <mapping pattern="tsconfig.lib.json" type="tsconfig" />
+      <removed_mapping ext="vue" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
