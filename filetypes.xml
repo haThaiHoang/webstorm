@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="auction" type="AUTO_DETECTED" />
       <mapping pattern="_editorconfig" type="AUTO_DETECTED" />
       <mapping pattern="_redirects" type="AUTO_DETECTED" />
       <mapping pattern="white-sword-icon" type="AUTO_DETECTED" />
