@@ -18,6 +18,10 @@
           <option name="url" value="http://dev.azure.com" />
           <option name="userName" value="bap-venture" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.primarynet.co.kr" />
+          <option name="userName" value="hoanght" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
