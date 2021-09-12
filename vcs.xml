@@ -10,6 +10,10 @@
           <option name="url" value="http://gitlab-new.bap.jp" />
           <option name="userName" value="hoanght@bap.jp" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.azure.com" />
+          <option name="userName" value="bap-venture" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
