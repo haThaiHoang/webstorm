@@ -4,6 +4,7 @@
       <mapping pattern="fgh" type="AUTO_DETECTED" />
       <mapping pattern="auction" type="AUTO_DETECTED" />
       <mapping pattern="_editorconfig" type="AUTO_DETECTED" />
+      <mapping pattern="__redirects" type="AUTO_DETECTED" />
       <mapping pattern="_redirects" type="AUTO_DETECTED" />
       <mapping pattern="white-sword-icon" type="AUTO_DETECTED" />
       <mapping pattern=".prettierrc" type="JSON" />
