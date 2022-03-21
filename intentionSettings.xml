@@ -155,5 +155,18 @@
     <ignoreAction name="XML/Convert tag to attribute" />
     <ignoreAction name="XML/Expand empty tag" />
     <ignoreAction name="XML/Merge Tags" />
+    <ignoreAction name="CoffeeScript/Replace double-quoted string with single-quoted string" />
+    <ignoreAction name="CoffeeScript/Replace single-quoted string with double-quoted string" />
+    <ignoreAction name="CSS/Apply width and height of background image" />
+    <ignoreAction name="CSS/Convert color to #-hex" />
+    <ignoreAction name="CSS/Convert color to gray()" />
+    <ignoreAction name="CSS/Convert color to hsl()" />
+    <ignoreAction name="CSS/Convert color to hwb()" />
+    <ignoreAction name="CSS/Convert color to rgb()" />
+    <ignoreAction name="CSS/Create selector" />
+    <ignoreAction name="CSS/Expand shorthand property" />
+    <ignoreAction name="CSS/Replace var() with its fallback value" />
+    <ignoreAction name="EditorConfig/Add declaration part" />
+    <ignoreAction name="EditorConfig/Invert option value" />
   </component>
 </application>
