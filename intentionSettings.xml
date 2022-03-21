@@ -232,5 +232,7 @@
     <ignoreAction name="JavaScript/Control Flow/Split '||' condition to equivalent 'if' statements" />
     <ignoreAction name="JavaScript/Control Flow/Unwrap 'else'" />
     <ignoreAction name="JavaScript/Control Flow/Merge parallel 'if' statements" />
+    <ignoreAction name="JavaScript/Control Flow/Merge 'else-if'" />
+    <ignoreAction name="JavaScript/Control Flow/Merge equivalent 'if' statements to '||' condition" />
   </component>
 </application>
