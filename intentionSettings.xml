@@ -206,5 +206,18 @@
     <ignoreAction name="HTTP Client/Generate request in HTTP Client" />
     <ignoreAction name="HTTP Client/Move HTTP Requests" />
     <ignoreAction name="HTTP Client/Set value for secured value" />
+    <ignoreAction name="JSON/Evaluate JSONPath Expression" />
+    <ignoreAction name="JavaScript/Convert 'for-in' to 'forEach' call" />
+    <ignoreAction name="JavaScript/Convert indexed 'for' to 'forEach' call" />
+    <ignoreAction name="JavaScript/Infer parameter types from usages" />
+    <ignoreAction name="JavaScript/Remove quotes from property names" />
+    <ignoreAction name="JavaScript/Wrap property names in quotes" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Change ES6 import path" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Expand optional chaining or nullish coalescing to explicit checks" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Iterate with 'for..of'" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Remove numeric separators" />
+    <ignoreAction name="JavaScript/Language Injection/Disable formatting for injected content" />
+    <ignoreAction name="JavaScript/Other/Compute constant value of sub-expression" />
+    <ignoreAction name="JavaScript/Other/Convert to operator assignment" />
   </component>
 </application>
