@@ -14,8 +14,13 @@
           <option name="url" value="http://dev.azure.com" />
           <option name="userName" value="bap-venture" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bap-venture@dev.azure.com/bap-venture/Defi-Warrior/_git/WebBeta" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/Works" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
