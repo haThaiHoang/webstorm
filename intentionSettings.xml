@@ -219,5 +219,8 @@
     <ignoreAction name="JavaScript/Language Injection/Disable formatting for injected content" />
     <ignoreAction name="JavaScript/Other/Compute constant value of sub-expression" />
     <ignoreAction name="JavaScript/Other/Convert to operator assignment" />
+    <ignoreAction name="JavaScript/JSX/Unwrap attribute value" />
+    <ignoreAction name="JavaScript/JSX/Wrap attribute value with {}" />
+    <ignoreAction name="JavaScript/Boolean/De Morgan's laws" />
   </component>
 </application>
