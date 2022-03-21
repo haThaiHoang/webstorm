@@ -222,5 +222,15 @@
     <ignoreAction name="JavaScript/JSX/Unwrap attribute value" />
     <ignoreAction name="JavaScript/JSX/Wrap attribute value with {}" />
     <ignoreAction name="JavaScript/Boolean/De Morgan's laws" />
+    <ignoreAction name="JavaScript/Conditional Operator/Flip 'if'" />
+    <ignoreAction name="JavaScript/Conditional Operator/Replace 'if...else' with conditional" />
+    <ignoreAction name="JavaScript/Conditional Operator/Replace conditional with 'if...else'" />
+    <ignoreAction name="JavaScript/Control Flow/Replace 'if' with 'switch'" />
+    <ignoreAction name="JavaScript/Control Flow/Replace 'switch' with 'if'" />
+    <ignoreAction name="JavaScript/Control Flow/Split '&amp;&amp;' condition to nested 'if' statements" />
+    <ignoreAction name="JavaScript/Control Flow/Split 'else-if'" />
+    <ignoreAction name="JavaScript/Control Flow/Split '||' condition to equivalent 'if' statements" />
+    <ignoreAction name="JavaScript/Control Flow/Unwrap 'else'" />
+    <ignoreAction name="JavaScript/Control Flow/Merge parallel 'if' statements" />
   </component>
 </application>
